@@ -1,0 +1,28 @@
+{
+  "name": "mongodb_crud_api",
+  "version": "1.0.0",
+  "description": "crud API with node.js , express and MongoDB . deploy with Heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TIOJIO/MongoDB_CRUD_API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TIOJIO/MongoDB_CRUD_API/issues"
+  },
+  "homepage": "https://github.com/TIOJIO/MongoDB_CRUD_API#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.8.1",
+    "nodemon": "^3.1.7"
+  }
+}
